@@ -1,0 +1,346 @@
+2016-04-25 21:16:13 [INFO] Starting minecraft server version 1.6.1
+2016-04-25 21:16:13 [INFO] Loading properties
+2016-04-25 21:16:13 [WARNING] server.properties does not exist
+2016-04-25 21:16:13 [INFO] Generating new properties file
+2016-04-25 21:16:13 [INFO] Default game type: SURVIVAL
+2016-04-25 21:16:13 [INFO] Generating keypair
+2016-04-25 21:16:13 [INFO] Starting Minecraft server on *:25565
+2016-04-25 21:16:13 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2016-04-25 21:16:13 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2016-04-25 21:16:14 [INFO] Preparing level "world"
+2016-04-25 21:16:14 [INFO] Preparing start region for level 0
+2016-04-25 21:16:15 [INFO] Preparing spawn area: 9%
+2016-04-25 21:16:16 [INFO] Preparing spawn area: 21%
+2016-04-25 21:16:17 [INFO] Preparing spawn area: 34%
+2016-04-25 21:16:18 [INFO] Preparing spawn area: 47%
+2016-04-25 21:16:19 [INFO] Preparing spawn area: 59%
+2016-04-25 21:16:20 [INFO] Preparing spawn area: 68%
+2016-04-25 21:16:21 [INFO] Preparing spawn area: 76%
+2016-04-25 21:16:22 [INFO] Preparing spawn area: 84%
+2016-04-25 21:16:23 [INFO] Preparing spawn area: 88%
+2016-04-25 21:16:24 [INFO] Preparing spawn area: 90%
+2016-04-25 21:16:25 [INFO] Preparing spawn area: 96%
+2016-04-25 21:16:25 [INFO] Done (11.992s)! For help, type "help" or "?"
+2016-04-25 21:16:57 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2016-04-25 21:16:57 [INFO] /ban <name> [reason ...]
+2016-04-25 21:16:57 [INFO] /ban-ip <address|name> [reason ...]
+2016-04-25 21:16:57 [INFO] /banlist [ips|players]
+2016-04-25 21:16:57 [INFO] /clear <player> [item] [data]
+2016-04-25 21:16:57 [INFO] /debug <start|stop>
+2016-04-25 21:16:57 [INFO] /defaultgamemode <mode>
+2016-04-25 21:16:57 [INFO] /deop <player>
+2016-04-25 21:17:59 [INFO] The world's default game mode is now Creative Mode
+2016-04-25 21:18:13 [SEVERE] Reached end of stream for /127.0.0.1
+2016-04-25 21:18:17 [SEVERE] Reached end of stream for /127.0.0.1
+2016-04-25 21:19:13 [INFO] Unknown command. Try /help for a list of commands
+2016-04-25 21:19:16 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2016-04-25 21:19:16 [INFO] /ban <name> [reason ...]
+2016-04-25 21:19:16 [INFO] /ban-ip <address|name> [reason ...]
+2016-04-25 21:19:16 [INFO] /banlist [ips|players]
+2016-04-25 21:19:16 [INFO] /clear <player> [item] [data]
+2016-04-25 21:19:16 [INFO] /debug <start|stop>
+2016-04-25 21:19:16 [INFO] /defaultgamemode <mode>
+2016-04-25 21:19:16 [INFO] /deop <player>
+2016-04-25 21:19:30 [INFO] --- Showing help page 2 of 6 (/help <page>) ---
+2016-04-25 21:19:30 [INFO] /difficulty <new difficulty>
+2016-04-25 21:19:30 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2016-04-25 21:19:30 [INFO] /enchant <player> <enchantment ID> [level]
+2016-04-25 21:19:30 [INFO] /gamemode <mode> [player]
+2016-04-25 21:19:30 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2016-04-25 21:19:30 [INFO] /give <player> <item> [amount] [data]
+2016-04-25 21:19:30 [INFO] /help [page|command name]
+2016-04-25 21:31:09 [INFO] Stopping server
+2017-09-16 14:58:22 [INFO] Starting minecraft server version 1.5.2
+2017-09-16 14:58:22 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2017-09-16 14:58:22 [INFO] Loading properties
+2017-09-16 14:58:22 [INFO] Default game type: SURVIVAL
+2017-09-16 14:58:22 [INFO] Generating keypair
+2017-09-16 14:58:22 [INFO] Starting Minecraft server on *:25565
+2017-09-16 14:58:22 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-16 14:58:22 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-16 14:58:22 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-16 14:58:22 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-16 14:58:22 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2017-09-16 14:58:22 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2017-09-16 14:58:22 [INFO] Preparing level "world"
+2017-09-16 14:58:22 [INFO] Preparing start region for level 0
+2017-09-16 14:58:23 [INFO] Preparing spawn area: 10%
+2017-09-16 14:58:24 [INFO] Preparing spawn area: 31%
+2017-09-16 14:58:25 [INFO] Preparing spawn area: 51%
+2017-09-16 14:58:26 [INFO] Preparing spawn area: 63%
+2017-09-16 14:58:27 [INFO] Preparing spawn area: 81%
+2017-09-16 14:58:28 [INFO] Done (6.309s)! For help, type "help" or "?"
+2017-09-16 14:58:42 [INFO] /127.0.0.1:63155 lost connection
+2017-09-16 14:58:44 [INFO] yuriydee[/127.0.0.1:63159] logged in with entity id 6822 at (-84.5, 68.0, 243.5)
+2017-09-16 14:59:49 [INFO] yuriydee lost connection: disconnect.quitting
+2017-09-16 15:01:10 [INFO] Unknown command. Try /help for a list of commands.
+2017-09-16 15:01:12 [INFO] Stopping the server
+2017-09-16 15:01:12 [INFO] Stopping server
+2017-09-16 15:01:12 [INFO] Saving players
+2017-09-16 15:01:12 [INFO] Closing listening thread
+2017-09-16 15:01:12 [INFO] Saving worlds
+2017-09-16 15:01:12 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-16 15:01:12 [INFO] Saving chunks for level 'world'/Nether
+2017-09-16 15:01:12 [INFO] Saving chunks for level 'world'/The End
+2017-09-16 15:01:12 [INFO] Stopping server
+2017-09-16 15:07:41 [INFO] Starting minecraft server version 1.5.2
+2017-09-16 15:07:41 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2017-09-16 15:07:41 [INFO] Loading properties
+2017-09-16 15:07:41 [INFO] Default game type: CREATIVE
+2017-09-16 15:07:41 [INFO] Generating keypair
+2017-09-16 15:07:42 [INFO] Starting Minecraft server on *:25565
+2017-09-16 15:07:42 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-16 15:07:42 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-16 15:07:42 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-16 15:07:42 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-16 15:07:42 [INFO] Preparing level "world"
+2017-09-16 15:07:42 [INFO] Preparing start region for level 0
+2017-09-16 15:07:42 [INFO] Done (0.787s)! For help, type "help" or "?"
+2017-09-16 15:07:58 [INFO] yuriydee[/127.0.0.1:64164] logged in with entity id 293 at (-74.16658197425132, 67.0, 249.68618610635517)
+2017-09-16 15:08:31 [INFO] Opped yuriydee
+2017-09-16 15:08:51 [INFO] Unknown command. Try /help for a list of commands.
+2017-09-16 15:08:54 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2017-09-16 15:08:54 [INFO] /ban <name> [reason ...]
+2017-09-16 15:08:54 [INFO] /ban-ip <address|name> [reason ...]
+2017-09-16 15:08:54 [INFO] /banlist [ips|players]
+2017-09-16 15:08:54 [INFO] /clear <player> [item] [data]
+2017-09-16 15:08:54 [INFO] /debug
+2017-09-16 15:08:54 [INFO] /defaultgamemode <mode>
+2017-09-16 15:08:54 [INFO] /deop <player>
+2017-09-16 15:09:19 [INFO] [yuriydee: Changing to clear weather]
+2017-09-16 15:10:54 [INFO] You must specify which player you wish to perform this action on.
+2017-09-16 15:15:19 [INFO] [yuriydee: Set the time to 12]
+2017-09-16 15:24:45 [INFO] yuriydee lost connection: disconnect.quitting
+2017-09-16 15:24:50 [INFO] Unknown command. Try /help for a list of commands.
+2017-09-16 15:24:56 [INFO] Unknown command. Try /help for a list of commands.
+2017-09-16 15:25:00 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2017-09-16 15:25:00 [INFO] /ban <name> [reason ...]
+2017-09-16 15:25:00 [INFO] /ban-ip <address|name> [reason ...]
+2017-09-16 15:25:00 [INFO] /banlist [ips|players]
+2017-09-16 15:25:00 [INFO] /clear <player> [item] [data]
+2017-09-16 15:25:00 [INFO] /debug
+2017-09-16 15:25:00 [INFO] /defaultgamemode <mode>
+2017-09-16 15:25:00 [INFO] /deop <player>
+2017-09-16 15:25:08 [INFO] --- Showing help page 2 of 6 (/help <page>) ---
+2017-09-16 15:25:08 [INFO] /difficulty <new difficulty>
+2017-09-16 15:25:08 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2017-09-16 15:25:08 [INFO] /enchant <player> <enchantment ID> [level]
+2017-09-16 15:25:08 [INFO] /gamemode <mode> [player]
+2017-09-16 15:25:08 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2017-09-16 15:25:08 [INFO] /give <player> <item> [amount] [data]
+2017-09-16 15:25:08 [INFO] /help [page|command name]
+2017-09-16 15:25:18 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2017-09-16 15:25:18 [INFO] /kick <player> [reason ...]
+2017-09-16 15:25:18 [INFO] /kill
+2017-09-16 15:25:18 [INFO] /list
+2017-09-16 15:25:18 [INFO] /me <action ...>
+2017-09-16 15:25:18 [INFO] /op <player>
+2017-09-16 15:25:18 [INFO] /pardon <name>
+2017-09-16 15:25:18 [INFO] /pardon-ip <address>
+2017-09-16 15:25:24 [INFO] --- Showing help page 4 of 6 (/help <page>) ---
+2017-09-16 15:25:24 [INFO] /save-all
+2017-09-16 15:25:24 [INFO] /save-off
+2017-09-16 15:25:24 [INFO] /save-on
+2017-09-16 15:25:24 [INFO] /say <message ...>
+2017-09-16 15:25:24 [INFO] /scoreboard
+2017-09-16 15:25:24 [INFO] /seed
+2017-09-16 15:25:24 [INFO] /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+2017-09-16 15:25:30 [INFO] Saving...
+2017-09-16 15:25:30 [INFO] Saved the world
+2017-09-16 15:25:33 [INFO] Stopping the server
+2017-09-16 15:25:33 [INFO] Stopping server
+2017-09-16 15:25:33 [INFO] Saving players
+2017-09-16 15:25:33 [INFO] Closing listening thread
+2017-09-16 15:25:33 [INFO] Saving worlds
+2017-09-16 15:25:33 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-16 15:25:33 [INFO] Saving chunks for level 'world'/Nether
+2017-09-16 15:25:33 [INFO] Saving chunks for level 'world'/The End
+2017-09-16 15:25:33 [INFO] Stopping server
+2017-09-16 18:30:45 [INFO] Starting minecraft server version 1.5.2
+2017-09-16 18:30:45 [INFO] Loading properties
+2017-09-16 18:30:45 [INFO] Default game type: CREATIVE
+2017-09-16 18:30:45 [INFO] Generating keypair
+2017-09-16 18:30:45 [INFO] Starting Minecraft server on *:25565
+2017-09-16 18:30:45 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-16 18:30:45 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-16 18:30:45 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-16 18:30:45 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-16 18:30:45 [INFO] Preparing level "world"
+2017-09-16 18:30:45 [INFO] Preparing start region for level 0
+2017-09-16 18:30:46 [INFO] Done (0.609s)! For help, type "help" or "?"
+2017-09-16 18:31:06 [INFO] yuriydee[/127.0.0.1:52836] logged in with entity id 206 at (-219.76781363615464, 106.0, 586.656846807652)
+2017-09-16 18:31:13 [INFO] [yuriydee: Set the time to 8]
+2017-09-16 18:31:30 [INFO] [yuriydee: Changing to clear weather]
+2017-09-16 18:42:17 [INFO] [yuriydee: Set the time to 7]
+2017-09-16 19:00:07 [INFO] [yuriydee: Set the time to 7]
+2017-09-16 19:04:24 [INFO] Saving...
+2017-09-16 19:04:24 [INFO] Saved the world
+2017-09-16 19:04:37 [INFO] Unknown command. Try /help for a list of commands.
+2017-09-16 19:04:44 [INFO] Set the time to 6
+2017-09-16 19:11:32 [INFO] [yuriydee: Saved the world]
+2017-09-16 19:11:35 [INFO] yuriydee lost connection: disconnect.quitting
+2017-09-16 19:11:40 [INFO] Stopping the server
+2017-09-16 19:11:40 [INFO] Stopping server
+2017-09-16 19:11:40 [INFO] Saving players
+2017-09-16 19:11:40 [INFO] Closing listening thread
+2017-09-16 19:11:40 [INFO] Saving worlds
+2017-09-16 19:11:40 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-16 19:11:40 [INFO] Saving chunks for level 'world'/Nether
+2017-09-16 19:11:40 [INFO] Saving chunks for level 'world'/The End
+2017-09-16 19:11:40 [INFO] Stopping server
+2017-09-17 00:51:07 [INFO] Starting minecraft server version 1.5.2
+2017-09-17 00:51:07 [INFO] Loading properties
+2017-09-17 00:51:07 [INFO] Default game type: CREATIVE
+2017-09-17 00:51:07 [INFO] Generating keypair
+2017-09-17 00:51:07 [INFO] Starting Minecraft server on *:25565
+2017-09-17 00:51:07 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-17 00:51:07 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-17 00:51:07 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-17 00:51:07 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-17 00:51:07 [INFO] Preparing level "world"
+2017-09-17 00:51:07 [INFO] Preparing start region for level 0
+2017-09-17 00:51:07 [INFO] Done (0.632s)! For help, type "help" or "?"
+2017-09-17 00:51:42 [INFO] yuriydee[/127.0.0.1:51700] logged in with entity id 189 at (-222.29876858748423, 105.0, 579.6999999880791)
+2017-09-17 00:52:11 [INFO] yuriydee lost connection: disconnect.quitting
+2017-09-17 00:52:14 [INFO] yuriydee[/127.0.0.1:51760] logged in with entity id 619 at (-222.29876858748423, 105.0, 579.6999999880791)
+2017-09-17 00:55:10 [INFO] [yuriydee: Set the time to 6]
+2017-09-17 01:06:06 [INFO] [yuriydee: Set the time to 6]
+2017-09-17 01:14:33 [INFO] Saving...
+2017-09-17 01:14:33 [INFO] Saved the world
+2017-09-17 01:17:04 [INFO] [yuriydee: Set the time to 6]
+2017-09-17 01:29:00 [INFO] [yuriydee: Set the time to 5]
+2017-09-17 01:29:57 [INFO] [yuriydee: Saved the world]
+2017-09-17 01:30:05 [INFO] yuriydee lost connection: disconnect.quitting
+2017-09-17 01:30:15 [INFO] Unknown command. Try /help for a list of commands.
+2017-09-17 01:30:17 [INFO] Stopping the server
+2017-09-17 01:30:17 [INFO] Stopping server
+2017-09-17 01:30:17 [INFO] Saving players
+2017-09-17 01:30:17 [INFO] Closing listening thread
+2017-09-17 01:30:17 [INFO] Saving worlds
+2017-09-17 01:30:17 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-17 01:30:17 [INFO] Saving chunks for level 'world'/Nether
+2017-09-17 01:30:17 [INFO] Saving chunks for level 'world'/The End
+2017-09-17 01:30:18 [INFO] Stopping server
+2017-09-17 12:36:41 [INFO] Starting minecraft server version 1.5.2
+2017-09-17 12:36:41 [INFO] Loading properties
+2017-09-17 12:36:41 [INFO] Default game type: CREATIVE
+2017-09-17 12:36:41 [INFO] Generating keypair
+2017-09-17 12:36:41 [INFO] Starting Minecraft server on *:25565
+2017-09-17 12:36:41 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-17 12:36:41 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-17 12:36:41 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-17 12:36:41 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-17 12:36:41 [INFO] Preparing level "world"
+2017-09-17 12:36:41 [INFO] Preparing start region for level 0
+2017-09-17 12:36:42 [INFO] Done (0.772s)! For help, type "help" or "?"
+2017-09-17 12:49:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2017-09-17 12:49:39 [INFO] Stopping the server
+2017-09-17 12:49:39 [INFO] Stopping server
+2017-09-17 12:49:39 [INFO] Saving players
+2017-09-17 12:49:39 [INFO] Closing listening thread
+2017-09-17 12:49:39 [INFO] Saving worlds
+2017-09-17 12:49:39 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-17 12:49:39 [INFO] Saving chunks for level 'world'/Nether
+2017-09-17 12:49:39 [INFO] Saving chunks for level 'world'/The End
+2017-09-17 12:49:39 [INFO] Stopping server
+2017-09-17 12:51:19 [INFO] Starting minecraft server version 1.5.2
+2017-09-17 12:51:19 [INFO] Loading properties
+2017-09-17 12:51:19 [INFO] Default game type: CREATIVE
+2017-09-17 12:51:19 [INFO] Generating keypair
+2017-09-17 12:51:19 [INFO] Starting Minecraft server on *:25565
+2017-09-17 12:51:19 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-17 12:51:19 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-17 12:51:19 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-17 12:51:19 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-17 12:51:19 [INFO] Preparing level "world"
+2017-09-17 12:51:19 [INFO] Preparing start region for level 0
+2017-09-17 12:51:20 [INFO] Done (0.645s)! For help, type "help" or "?"
+2017-09-17 12:51:24 [INFO] yuriydee[/127.0.0.1:49303] logged in with entity id 180 at (-171.22886039256517, 81.96355195008314, 568.6345883744763)
+2017-09-17 13:14:12 [INFO] [yuriydee: Saved the world]
+2017-09-17 13:14:14 [INFO] yuriydee lost connection: disconnect.quitting
+2017-09-17 13:17:42 [INFO] Stopping the server
+2017-09-17 13:17:42 [INFO] Stopping server
+2017-09-17 13:17:42 [INFO] Saving players
+2017-09-17 13:17:42 [INFO] Closing listening thread
+2017-09-17 13:17:42 [INFO] Saving worlds
+2017-09-17 13:17:42 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-17 13:17:42 [INFO] Saving chunks for level 'world'/Nether
+2017-09-17 13:17:42 [INFO] Saving chunks for level 'world'/The End
+2017-09-17 13:17:47 [INFO] Starting minecraft server version 1.5.2
+2017-09-17 13:17:47 [INFO] Loading properties
+2017-09-17 13:17:47 [INFO] Default game type: CREATIVE
+2017-09-17 13:17:47 [INFO] Generating keypair
+2017-09-17 13:17:47 [INFO] Starting Minecraft server on *:25565
+2017-09-17 13:17:47 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-17 13:17:47 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-17 13:17:47 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-17 13:17:47 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-17 13:17:47 [INFO] Preparing level "world"
+2017-09-17 13:17:47 [INFO] Preparing start region for level 0
+2017-09-17 13:17:48 [INFO] Done (0.616s)! For help, type "help" or "?"
+2017-09-17 13:19:03 [INFO] Stopping the server
+2017-09-17 13:19:03 [INFO] Stopping server
+2017-09-17 13:19:03 [INFO] Saving players
+2017-09-17 13:19:03 [INFO] Closing listening thread
+2017-09-17 13:19:03 [INFO] Saving worlds
+2017-09-17 13:19:03 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-17 13:19:03 [INFO] Saving chunks for level 'world'/Nether
+2017-09-17 13:19:03 [INFO] Saving chunks for level 'world'/The End
+2017-09-17 14:14:40 [INFO] Starting minecraft server version 1.5.2
+2017-09-17 14:14:40 [INFO] Loading properties
+2017-09-17 14:14:40 [INFO] Default game type: CREATIVE
+2017-09-17 14:14:40 [INFO] Generating keypair
+2017-09-17 14:14:40 [INFO] Starting Minecraft server on *:25565
+2017-09-17 14:14:40 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-17 14:14:40 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-17 14:14:40 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-17 14:14:40 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-17 14:14:40 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2017-09-17 14:14:40 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2017-09-17 14:14:41 [INFO] Preparing level "world"
+2017-09-17 14:14:41 [INFO] Preparing start region for level 0
+2017-09-17 14:14:41 [INFO] Done (0.833s)! For help, type "help" or "?"
+2017-09-17 14:14:57 [INFO] yuriydee[/127.0.0.1:54108] logged in with entity id 178 at (-83.5, 67.0, 260.5)
+2017-09-17 14:15:09 [INFO] Opped yuriydee
+2017-09-17 14:16:00 [INFO] [yuriydee: Set the time to 6]
+2017-09-17 14:28:15 [INFO] [yuriydee: Set the time to 6]
+2017-09-17 14:39:20 [INFO] Saving...
+2017-09-17 14:39:20 [INFO] Saved the world
+2017-09-17 14:39:24 [INFO] Unknown command. Try /help for a list of commands.
+2017-09-17 14:39:29 [INFO] Stopping the server
+2017-09-17 14:39:29 [INFO] Stopping server
+2017-09-17 14:39:29 [INFO] Saving players
+2017-09-17 14:39:29 [INFO] Closing listening thread
+2017-09-17 14:39:29 [INFO] Saving worlds
+2017-09-17 14:39:29 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-17 14:39:29 [INFO] Saving chunks for level 'world'/Nether
+2017-09-17 14:39:29 [INFO] Saving chunks for level 'world'/The End
+2017-09-17 14:39:29 [INFO] Stopping server
+2017-09-17 14:59:12 [INFO] Starting minecraft server version 1.5.2
+2017-09-17 14:59:12 [INFO] Loading properties
+2017-09-17 14:59:12 [INFO] Default game type: CREATIVE
+2017-09-17 14:59:12 [INFO] Generating keypair
+2017-09-17 14:59:13 [INFO] Starting Minecraft server on *:25565
+2017-09-17 14:59:13 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2017-09-17 14:59:13 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2017-09-17 14:59:13 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2017-09-17 14:59:13 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2017-09-17 14:59:13 [INFO] Preparing level "world"
+2017-09-17 14:59:13 [INFO] Preparing start region for level 0
+2017-09-17 14:59:13 [INFO] Done (0.618s)! For help, type "help" or "?"
+2017-09-17 14:59:54 [INFO] Disconnecting /127.0.0.1:59370: Protocol error
+2017-09-17 14:59:54 [INFO] /127.0.0.1:59370 lost connection
+2017-09-17 14:59:55 [INFO] /127.0.0.1:59371 lost connection
+2017-09-17 14:59:57 [INFO] Disconnecting /127.0.0.1:59375: Protocol error
+2017-09-17 14:59:57 [INFO] /127.0.0.1:59375 lost connection
+2017-09-17 15:00:02 [INFO] Disconnecting /127.0.0.1:59386: Protocol error
+2017-09-17 15:00:02 [INFO] /127.0.0.1:59386 lost connection
+2017-09-17 15:00:12 [INFO] Stopping the server
+2017-09-17 15:00:12 [INFO] Stopping server
+2017-09-17 15:00:12 [INFO] Saving players
+2017-09-17 15:00:12 [INFO] Saving worlds
+2017-09-17 15:00:12 [INFO] Closing listening thread
+2017-09-17 15:00:12 [INFO] Saving chunks for level 'world'/Overworld
+2017-09-17 15:00:12 [INFO] Saving chunks for level 'world'/Nether
+2017-09-17 15:00:12 [INFO] Saving chunks for level 'world'/The End
+2017-09-17 15:00:12 [INFO] Stopping server

@@ -1,0 +1,32 @@
+---- Minecraft Crash Report ----
+// I'm sorry, Dave.
+
+Time: 4/25/16 9:57 PM
+Description: Exception in server tick loop
+
+java.net.UnknownHostException: 104.148.212.200:25565: invalid IPv6 address
+	at java.net.InetAddress.getAllByName(InetAddress.java:1148)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105)
+	at java.net.InetAddress.getByName(InetAddress.java:1055)
+	at hz.c(SourceFile:124)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:306)
+	at gp.run(SourceFile:573)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Mac OS X (x86_64) version 10.11.5
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 986226672 bytes (940 MB) / 1029177344 bytes (981 MB) up to 1029177344 bytes (981 MB)
+	JVM Flags: 2 total; -Xms1G -Xmx1G
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: No suspicious classes found.
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Profiler Position: N/A (disabled)
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
