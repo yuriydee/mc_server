@@ -148,8 +148,8 @@ disabledWorlds:
 # Players with the admin block break permission can use any type
 # Others have to use one from this list
 allowedBlockBreakTypes:
-- CROPS
 - LOG
+- CROPS
 
 # Whether or not to show item animations when transferring items
 showTransferAnimations: true

@@ -1,0 +1,280 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 715915264 bytes for committing reserved memory.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_linux.cpp:2627), pid=20403, tid=1983284320
+#
+# JRE version:  (8.0_65-b17) (build )
+# Java VM: Java HotSpot(TM) Client VM (25.65-b01 mixed mode, sharing linux-arm )
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x76207000):  JavaThread "Unknown thread" [_thread_in_vm, id=20404, stack(0x76319000,0x76369000)]
+
+Stack: [0x76319000,0x76369000]
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x76207000 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=20404, stack(0x76319000,0x76369000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+00008000-00009000 r-xp 00000000 b3:02 147788     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/java
+00010000-00011000 rw-p 00000000 b3:02 147788     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/java
+00a60000-00a81000 rw-p 00000000 00:00 0          [heap]
+33dff000-33eaa000 rw-p 00000000 00:00 0 
+33eaa000-33fff000 ---p 00000000 00:00 0 
+33fff000-49540000 rw-p 00000000 00:00 0 
+740b0000-740b1000 rw-p 00000000 00:00 0 
+740b1000-74130000 ---p 00000000 00:00 0 
+74130000-74158000 rwxp 00000000 00:00 0 
+74158000-76130000 ---p 00000000 00:00 0 
+76130000-76147000 r-xp 00000000 b3:02 147875     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libzip.so
+76147000-7614e000 ---p 00017000 b3:02 147875     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libzip.so
+7614e000-7614f000 rw-p 00016000 b3:02 147875     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libzip.so
+7614f000-7615a000 r-xp 00000000 b3:02 131334     /lib/arm-linux-gnueabihf/libnss_files-2.19.so
+7615a000-76169000 ---p 0000b000 b3:02 131334     /lib/arm-linux-gnueabihf/libnss_files-2.19.so
+76169000-7616a000 r--p 0000a000 b3:02 131334     /lib/arm-linux-gnueabihf/libnss_files-2.19.so
+7616a000-7616b000 rw-p 0000b000 b3:02 131334     /lib/arm-linux-gnueabihf/libnss_files-2.19.so
+7616b000-76174000 r-xp 00000000 b3:02 131342     /lib/arm-linux-gnueabihf/libnss_nis-2.19.so
+76174000-76183000 ---p 00009000 b3:02 131342     /lib/arm-linux-gnueabihf/libnss_nis-2.19.so
+76183000-76184000 r--p 00008000 b3:02 131342     /lib/arm-linux-gnueabihf/libnss_nis-2.19.so
+76184000-76185000 rw-p 00009000 b3:02 131342     /lib/arm-linux-gnueabihf/libnss_nis-2.19.so
+76185000-76196000 r-xp 00000000 b3:02 131331     /lib/arm-linux-gnueabihf/libnsl-2.19.so
+76196000-761a5000 ---p 00011000 b3:02 131331     /lib/arm-linux-gnueabihf/libnsl-2.19.so
+761a5000-761a6000 r--p 00010000 b3:02 131331     /lib/arm-linux-gnueabihf/libnsl-2.19.so
+761a6000-761a7000 rw-p 00011000 b3:02 131331     /lib/arm-linux-gnueabihf/libnsl-2.19.so
+761a7000-761a9000 rw-p 00000000 00:00 0 
+761a9000-761b0000 r-xp 00000000 b3:02 131332     /lib/arm-linux-gnueabihf/libnss_compat-2.19.so
+761b0000-761bf000 ---p 00007000 b3:02 131332     /lib/arm-linux-gnueabihf/libnss_compat-2.19.so
+761bf000-761c0000 r--p 00006000 b3:02 131332     /lib/arm-linux-gnueabihf/libnss_compat-2.19.so
+761c0000-761c1000 rw-p 00007000 b3:02 131332     /lib/arm-linux-gnueabihf/libnss_compat-2.19.so
+761d4000-761f7000 r-xp 00000000 b3:02 147850     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libjava.so
+761f7000-761ff000 ---p 00023000 b3:02 147850     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libjava.so
+761ff000-76200000 rw-p 00023000 b3:02 147850     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libjava.so
+76200000-76221000 rw-p 00000000 00:00 0 
+76221000-76300000 ---p 00000000 00:00 0 
+76302000-76308000 r-xp 00000000 b3:02 131360     /lib/arm-linux-gnueabihf/librt-2.19.so
+76308000-76317000 ---p 00006000 b3:02 131360     /lib/arm-linux-gnueabihf/librt-2.19.so
+76317000-76318000 r--p 00005000 b3:02 131360     /lib/arm-linux-gnueabihf/librt-2.19.so
+76318000-76319000 rw-p 00006000 b3:02 131360     /lib/arm-linux-gnueabihf/librt-2.19.so
+76319000-7631c000 ---p 00000000 00:00 0 
+7631c000-76369000 rwxp 00000000 00:00 0 
+76369000-763d2000 r-xp 00000000 b3:02 131323     /lib/arm-linux-gnueabihf/libm-2.19.so
+763d2000-763e2000 ---p 00069000 b3:02 131323     /lib/arm-linux-gnueabihf/libm-2.19.so
+763e2000-763e3000 r--p 00069000 b3:02 131323     /lib/arm-linux-gnueabihf/libm-2.19.so
+763e3000-763e4000 rw-p 0006a000 b3:02 131323     /lib/arm-linux-gnueabihf/libm-2.19.so
+763e4000-76967000 r-xp 00000000 b3:02 147877     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/client/libjvm.so
+76967000-7696f000 ---p 00583000 b3:02 147877     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/client/libjvm.so
+7696f000-7699b000 rw-p 00583000 b3:02 147877     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/client/libjvm.so
+7699b000-76dbe000 rw-p 00000000 00:00 0 
+76dbe000-76ddb000 r-xp 00000000 b3:02 131309     /lib/arm-linux-gnueabihf/libgcc_s.so.1
+76ddb000-76dea000 ---p 0001d000 b3:02 131309     /lib/arm-linux-gnueabihf/libgcc_s.so.1
+76dea000-76deb000 rw-p 0001c000 b3:02 131309     /lib/arm-linux-gnueabihf/libgcc_s.so.1
+76deb000-76f16000 r-xp 00000000 b3:02 131295     /lib/arm-linux-gnueabihf/libc-2.19.so
+76f16000-76f26000 ---p 0012b000 b3:02 131295     /lib/arm-linux-gnueabihf/libc-2.19.so
+76f26000-76f28000 r--p 0012b000 b3:02 131295     /lib/arm-linux-gnueabihf/libc-2.19.so
+76f28000-76f29000 rw-p 0012d000 b3:02 131295     /lib/arm-linux-gnueabihf/libc-2.19.so
+76f29000-76f2c000 rw-p 00000000 00:00 0 
+76f2c000-76f2e000 r-xp 00000000 b3:02 131303     /lib/arm-linux-gnueabihf/libdl-2.19.so
+76f2e000-76f3d000 ---p 00002000 b3:02 131303     /lib/arm-linux-gnueabihf/libdl-2.19.so
+76f3d000-76f3e000 r--p 00001000 b3:02 131303     /lib/arm-linux-gnueabihf/libdl-2.19.so
+76f3e000-76f3f000 rw-p 00002000 b3:02 131303     /lib/arm-linux-gnueabihf/libdl-2.19.so
+76f3f000-76f53000 r-xp 00000000 b3:02 147878     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/jli/libjli.so
+76f53000-76f5b000 ---p 00014000 b3:02 147878     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/jli/libjli.so
+76f5b000-76f5c000 rw-p 00014000 b3:02 147878     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/jli/libjli.so
+76f5c000-76f70000 r-xp 00000000 b3:02 131357     /lib/arm-linux-gnueabihf/libpthread-2.19.so
+76f70000-76f80000 ---p 00014000 b3:02 131357     /lib/arm-linux-gnueabihf/libpthread-2.19.so
+76f80000-76f81000 r--p 00014000 b3:02 131357     /lib/arm-linux-gnueabihf/libpthread-2.19.so
+76f81000-76f82000 rw-p 00015000 b3:02 131357     /lib/arm-linux-gnueabihf/libpthread-2.19.so
+76f82000-76f84000 rw-p 00000000 00:00 0 
+76f85000-76f8e000 r-xp 00000000 b3:02 147874     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libverify.so
+76f8e000-76f96000 ---p 00009000 b3:02 147874     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libverify.so
+76f96000-76f97000 rw-p 00009000 b3:02 147874     /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/arm/libverify.so
+76f97000-76f9c000 r-xp 00000000 b3:02 145880     /usr/lib/arm-linux-gnueabihf/libarmmem.so
+76f9c000-76fab000 ---p 00005000 b3:02 145880     /usr/lib/arm-linux-gnueabihf/libarmmem.so
+76fab000-76fac000 rw-p 00004000 b3:02 145880     /usr/lib/arm-linux-gnueabihf/libarmmem.so
+76fac000-76fcc000 r-xp 00000000 b3:02 131262     /lib/arm-linux-gnueabihf/ld-2.19.so
+76fcd000-76fd5000 rw-s 00000000 b3:02 259532     /tmp/hsperfdata_pi/20403
+76fd5000-76fd6000 r--p 00000000 00:00 0 
+76fd6000-76fd9000 rw-p 00000000 00:00 0 
+76fd9000-76fdb000 rw-p 00000000 00:00 0 
+76fdb000-76fdc000 r--p 0001f000 b3:02 131262     /lib/arm-linux-gnueabihf/ld-2.19.so
+76fdc000-76fdd000 rw-p 00020000 b3:02 131262     /lib/arm-linux-gnueabihf/ld-2.19.so
+7ebc0000-7ebe1000 rwxp 00000000 00:00 0          [stack]
+7efec000-7efed000 r-xp 00000000 00:00 0          [sigpage]
+7efed000-7efee000 r--p 00000000 00:00 0          [vvar]
+7efee000-7efef000 r-xp 00000000 00:00 0          [vdso]
+ffff0000-ffff1000 r-xp 00000000 00:00 0          [vectors]
+
+VM Arguments:
+jvm_args: -Xms1G -Xmx1G 
+java_command: spigot-1.12.2.jar nogui
+java_class_path (initial): spigot-1.12.2.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+SHELL=/bin/bash
+
+Signal Handlers:
+SIGSEGV: [libjvm.so+0x506638], sa_mask[0]=11111111011111111101111111111110, sa_flags=SA_RESTART|SA_SIGINFO
+SIGBUS: [libjvm.so+0x506638], sa_mask[0]=11111111011111111101111111111110, sa_flags=SA_RESTART|SA_SIGINFO
+SIGFPE: [libjvm.so+0x3fd4ec], sa_mask[0]=11111111011111111101111111111110, sa_flags=SA_RESTART|SA_SIGINFO
+SIGPIPE: [libjvm.so+0x3fd4ec], sa_mask[0]=11111111011111111101111111111110, sa_flags=SA_RESTART|SA_SIGINFO
+SIGXFSZ: [libjvm.so+0x3fd4ec], sa_mask[0]=11111111011111111101111111111110, sa_flags=SA_RESTART|SA_SIGINFO
+SIGILL: [libjvm.so+0x3fd4ec], sa_mask[0]=11111111011111111101111111111110, sa_flags=SA_RESTART|SA_SIGINFO
+SIGUSR1: SIG_DFL, sa_mask[0]=00000000000000000000000000000000, sa_flags=none
+SIGUSR2: [libjvm.so+0x3fd650], sa_mask[0]=00000000000000000000000000000000, sa_flags=SA_RESTART|SA_SIGINFO
+SIGHUP: SIG_DFL, sa_mask[0]=00000000000000000000000000000000, sa_flags=none
+SIGINT: SIG_IGN, sa_mask[0]=00000000000000000000000000000000, sa_flags=none
+SIGTERM: SIG_DFL, sa_mask[0]=00000000000000000000000000000000, sa_flags=none
+SIGQUIT: SIG_IGN, sa_mask[0]=00000000000000000000000000000000, sa_flags=none
+
+
+---------------  S Y S T E M  ---------------
+
+OS:PRETTY_NAME="Raspbian GNU/Linux 8 (jessie)"
+NAME="Raspbian GNU/Linux"
+VERSION_ID="8"
+VERSION="8 (jessie)"
+ID=raspbian
+ID_LIKE=debian
+HOME_URL="http://www.raspbian.org/"
+SUPPORT_URL="http://www.raspbian.org/RaspbianForums"
+BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
+
+uname:Linux 4.9.35-v7+ #1014 SMP Fri Jun 30 14:47:43 BST 2017 armv7l
+libc:glibc 2.19 NPTL 2.19 
+rlimit: STACK 8192k, CORE 0k, NPROC 7314, NOFILE 65536, AS infinity
+load average:0.07 0.04 0.01
+
+/proc/meminfo:
+MemTotal:         945512 kB
+MemFree:          243428 kB
+MemAvailable:     493952 kB
+Buffers:           48844 kB
+Cached:           261636 kB
+SwapCached:         3180 kB
+Active:           499788 kB
+Inactive:         162664 kB
+Active(anon):     297952 kB
+Inactive(anon):    74012 kB
+Active(file):     201836 kB
+Inactive(file):    88652 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:        102396 kB
+SwapFree:           1268 kB
+Dirty:                36 kB
+Writeback:             0 kB
+AnonPages:        349228 kB
+Mapped:            95492 kB
+Shmem:             19992 kB
+Slab:              22808 kB
+SReclaimable:      10180 kB
+SUnreclaim:        12628 kB
+KernelStack:        2160 kB
+PageTables:         5960 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      575152 kB
+Committed_AS:    2887828 kB
+VmallocTotal:    1114112 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:           8192 kB
+CmaFree:            6792 kB
+
+
+CPU:total 4 (ARMv7), vfp
+
+/proc/cpuinfo:
+processor	: 0
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 1
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 2
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 3
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+Hardware	: BCM2835
+Revision	: a22082
+Serial		: 00000000609a8562
+
+
+Memory: 4k page, physical 945512k(243428k free), swap 102396k(1268k free)
+
+vm_info: Java HotSpot(TM) Client VM (25.65-b01) for linux-arm-vfp-hflt JRE (1.8.0_65-b17), built on Oct  6 2015 16:19:04 by "java_re" with gcc 4.7.2 20120910 (prerelease)
+
+time: Thu Sep 28 19:37:30 2017
+elapsed time: 0 seconds (0d 0h 0m 0s)
+

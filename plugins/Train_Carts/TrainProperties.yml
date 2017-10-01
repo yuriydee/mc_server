@@ -1,18 +1,3 @@
-train4:
-  collisionDamage: 1.0
-  tickets: []
-  collision:
-    passive: DEFAULT
-    neutral: DEFAULT
-    hostile: DEFAULT
-    tameable: DEFAULT
-    utility: DEFAULT
-    boss: DEFAULT
-    misc: PUSH
-  carts:
-    0988379f-5de5-402d-84ee-fe4bbe9c7eff:
-      owners:
-      - yuriydee
 train2:
   collisionDamage: 1.0
   tickets: []
@@ -52,19 +37,4 @@ train1:
     boss: DEFAULT
     misc: PUSH
   carts: {}
-train15:
-  collisionDamage: 1.0
-  tickets: []
-  collision:
-    passive: DEFAULT
-    neutral: DEFAULT
-    hostile: DEFAULT
-    tameable: DEFAULT
-    utility: DEFAULT
-    boss: DEFAULT
-    misc: PUSH
-  carts:
-    5fd92659-5ed3-490c-9a0e-7c220c08c47d:
-      owners:
-      - yuriydee
 
