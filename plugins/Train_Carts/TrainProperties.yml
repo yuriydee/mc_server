@@ -1,3 +1,74 @@
+train10:
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    7edad13d-ff7e-4c94-973d-088cc3f43307:
+      owners:
+      - yuriydee
+    4c11826f-556c-4dac-ac8d-2278610f9b72:
+      owners:
+      - yuriydee
+    45628693-3b40-4534-9f0b-e88341333f4a:
+      owners:
+      - yuriydee
+    cfd622c9-8685-4c02-86c8-3f7bbb3e96a0:
+      owners:
+      - yuriydee
+    e10cadd2-10a6-41a8-96fc-951f7d500d96:
+      owners:
+      - yuriydee
+train4:
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+train11:
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    a17d78eb-cb58-4923-9a27-b06f01d6bfc0:
+      owners:
+      - yuriydee
+    443f673a-b906-47f2-9573-31605ba03f52:
+      owners:
+      - yuriydee
+    ff179ab7-fa34-4cb7-ba9c-9a4be281b045:
+      owners:
+      - yuriydee
+    66720c92-9ea4-481b-bc7b-6d4383af7e41:
+      owners:
+      - yuriydee
+    3663c116-dfc6-4d33-90c0-475522abd3fc:
+      owners:
+      - yuriydee
+    52612737-f09b-4421-9a87-a737f9aeee41:
+      owners:
+      - yuriydee
+    9d0efe25-5c22-44e1-ad0b-5edae753a5a8:
+      owners:
+      - yuriydee
 train2:
   collisionDamage: 1.0
   tickets: []
